@@ -1,0 +1,22 @@
+{
+  "name": "typescript-boilerplate",
+  "version": "1.0.0",
+  "description": "Project template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheodoreChe/Typescript-Boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheodoreChe/Typescript-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/TheodoreChe/Typescript-Boilerplate#readme",
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
+}
